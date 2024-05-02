@@ -72,3 +72,16 @@ Le technicien Eman Flippe gagne 5200.0 francs.
 Le manut. Cris Abordage gagne 3125.0 francs.
 Le salaire moyen dans l'entreprise est de 4575.0 francs.
 ```
+```
+pour moi 
+```
+```
+Classe :
+Une classe est un modèle pour la création d'objets. Elle définit les propriétés (attributs) et les comportements (méthodes) des objets qui en sont des instances. Par exemple, si vous créez une classe Voiture, elle peut avoir des attributs comme couleur, marque, vitesse, etc., et des méthodes comme accélérer(), freiner(), etc.
+Héritage :
+L'héritage est un concept qui permet à une classe (appelée classe dérivée ou sous-classe) de hériter des propriétés et des comportements d'une autre classe (appelée classe de base ou superclasse). La sous-classe peut alors étendre ou modifier le comportement de la superclasse. Par exemple, vous pouvez avoir une classe VoitureDeSport qui hérite de la classe Voiture, et qui peut avoir des méthodes supplémentaires spécifiques aux voitures de sport.
+Interface :
+Une interface en Java est un contrat qui définit un ensemble de méthodes abstraites (méthodes sans corps) que les classes qui implémentent cette interface doivent fournir. Cela permet de spécifier un comportement commun à plusieurs classes sans imposer une hiérarchie de classe spécifique. Par exemple, vous pouvez avoir une interface Animal avec des méthodes comme manger(), dormir(), etc., que différentes classes comme Chien, Chat, etc., peuvent implémenter.
+Polymorphisme :
+Le polymorphisme est le fait qu'un même code peut agir de différentes manières en fonction du type sur lequel il opère. Il peut se produire à travers l'héritage et l'interface. Par exemple, si vous avez une méthode faireDuBruit() dans votre classe Animal, vous pouvez appeler cette méthode sur différentes instances d'animaux (chien, chat, etc.), et elle agira différemment en fonction du type d'animal sur lequel elle est appelée. C'est le polymorphisme en action.
+```
