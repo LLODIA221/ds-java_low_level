@@ -1,6 +1,7 @@
- class Animal {
-    int matricule;
-    String nom;
+
+class Animal {
+    public int matricule;
+   public String nom;
 
     public int getMatricule() {
         return matricule;
